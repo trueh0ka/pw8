@@ -1,0 +1,17 @@
+C:\Users\vipal\source\repos\Speed\Speed\obj\Debug\net6.0\Speed.csproj.AssemblyReference.cache
+C:\Users\vipal\source\repos\Speed\Speed\obj\Debug\net6.0\Speed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipal\source\repos\Speed\Speed\obj\Debug\net6.0\Speed.AssemblyInfoInputs.cache
+C:\Users\vipal\source\repos\Speed\Speed\obj\Debug\net6.0\Speed.AssemblyInfo.cs
+C:\Users\vipal\source\repos\Speed\Speed\obj\Debug\net6.0\Speed.csproj.CoreCompileInputs.cache
+C:\Users\vipal\source\repos\Speed\Speed\bin\Debug\net6.0\Speed.exe
+C:\Users\vipal\source\repos\Speed\Speed\bin\Debug\net6.0\Speed.deps.json
+C:\Users\vipal\source\repos\Speed\Speed\bin\Debug\net6.0\Speed.runtimeconfig.json
+C:\Users\vipal\source\repos\Speed\Speed\bin\Debug\net6.0\Speed.dll
+C:\Users\vipal\source\repos\Speed\Speed\bin\Debug\net6.0\Speed.pdb
+C:\Users\vipal\source\repos\Speed\Speed\obj\Debug\net6.0\Speed.dll
+C:\Users\vipal\source\repos\Speed\Speed\obj\Debug\net6.0\refint\Speed.dll
+C:\Users\vipal\source\repos\Speed\Speed\obj\Debug\net6.0\Speed.pdb
+C:\Users\vipal\source\repos\Speed\Speed\obj\Debug\net6.0\Speed.genruntimeconfig.cache
+C:\Users\vipal\source\repos\Speed\Speed\obj\Debug\net6.0\ref\Speed.dll
+C:\Users\vipal\source\repos\Speed\Speed\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\vipal\source\repos\Speed\Speed\obj\Debug\net6.0\Speed.csproj.CopyComplete
